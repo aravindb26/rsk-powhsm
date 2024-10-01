@@ -1,4 +1,4 @@
-FROM python:3.7.16-slim-bullseye
+FROM python:slim-bullseye
 
 WORKDIR /hsm2
 
