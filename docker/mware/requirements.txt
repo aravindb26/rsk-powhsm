@@ -157,7 +157,7 @@ pip-api==0.0.14 \
 pkgconfig==1.5.1 \
     --hash=sha256:97bfe3d981bab675d5ea3ef259045d7919c93897db7d3b59d4e8593cba8d354f \
     --hash=sha256:cddf2d7ecadb272178a942eb852a9dee46bda2adcc36c3416b0fef47a4ed9f38
-protobuf==3.18.3 \
+protobuf==4.25.8 \
     --hash=sha256:0c44e01f74109decea196b5b313b08edb5316df77313995594a6981e95674259 \
     --hash=sha256:15cdecb0d192ab5f17cdc21a9c0ae7b5c6c4451e42c8a888a4f3344c190e369c \
     --hash=sha256:196a153e487c0e20d62259872bbf2e1c4fa18e2ce97e20984fcbf9d8b151058d \
@@ -298,7 +298,7 @@ python-bitcoinlib==0.10.2 \
     --hash=sha256:bdb270ded594b8dead58fd6830ad14f880c25ec1fd2ca1be24e9e85decefce04
 python-u2flib-host==3.0.3 \
     --hash=sha256:ab678b9dc29466a779efcaa2f0150dce35059a7d17680fc26057fa599a53fc0a
-requests==2.31.0 \
+requests==2.32.4 \
     --hash=sha256:58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f \
     --hash=sha256:942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1
 rlp==1.2.0 \
@@ -319,7 +319,7 @@ six==1.14.0 \
     --hash=sha256:8f3cd2e254d8f793e7f3d6d9df77b92252b52637291d0f0da013c76ea2724b6c
 toolz==0.10.0 \
     --hash=sha256:08fdd5ef7c96480ad11c12d472de21acd32359996f69a5259299b540feba4560
-urllib3==1.26.18 \
+urllib3==2.5.0 \
     --hash=sha256:34b97092d7e0a3a8cf7cd10e386f401b3737364026c45e622aa02903dffe0f07 \
     --hash=sha256:f8ecc1bba5667413457c529ab955bf8c67b45db799d159066261719e328580a0
 websocket_client==0.57.0 \
